@@ -1,5 +1,5 @@
 # Flutter Netflix Clone Application
-
+-
 A responsive Netflix UI clone built using Flutter. This project replicates the core layout and design patterns of the Netflix mobile app, focusing on clean UI practices, component reusability, and scalable architecture. It is built entirely using Flutter’s widget system and supports both Android and iOS platforms.
 # Home Ui
 ![Home UI](https://raw.githubusercontent.com/FaizanImran-blip/chat-App-clone/bb6dc4954b95f2f3e67cb044b113d70e46bf4ef2/assets/IMG_2803.PNG)
